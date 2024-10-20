@@ -24,3 +24,5 @@
 
 ### Objetivo do Projeto
 O objetivo do projeto é realizar uma análise abrangente de dados de lançamentos espaciais, visando compreender melhor as dinâmicas do setor espacial, como a quantidade de lançamentos por organização, o status dos foguetes, a distribuição geográfica dos lançamentos e os gastos associados. Através de visualizações interativas, o projeto busca facilitar a compreensão e a interpretação dos dados, permitindo insights valiosos sobre a indústria espacial.
+
+<center><img src="https://i.imgur.com/9hLRsjZ.jpg" height=400></center>
