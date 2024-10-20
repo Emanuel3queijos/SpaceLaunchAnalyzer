@@ -1,12 +1,12 @@
 # SpaceLaunchAnalyzer
 
 ### Tecnologias Usadas
-1. **Python**: Linguagem de programação principal utilizada para análise de dados.
-2. **Pandas**: Biblioteca para manipulação e análise de dados, usada para carregar e processar os dados.
-3. **Plotly**: Biblioteca para visualização de dados interativa, utilizada para criar gráficos e mapas.
-4. **Seaborn**: Biblioteca para visualização estatística baseada em Matplotlib, embora não tenha sido amplamente utilizada no projeto.
-5. **Matplotlib**: Biblioteca para criação de gráficos em Python, como complemento às visualizações.
-6. **iso3166**: Biblioteca usada para obter códigos de países em formato Alpha-3.
+1. **Python**
+2. **Pandas**
+3. **Plotly**
+4. **Seaborn**
+5. **Matplotlib**
+6. **iso3166**
 
 ### Funcionalidades
 1. **Carregamento e Limpeza de Dados**: Importação dos dados de lançamentos espaciais e limpeza inicial para remover valores ausentes e duplicados.
