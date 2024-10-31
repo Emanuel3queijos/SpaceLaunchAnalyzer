@@ -31,13 +31,4 @@ O **SpaceLaunchAnalyzer** é uma ferramenta de análise de dados desenvolvida em
 5. **Análise Temporal**:
    - Contagem de lançamentos por ano e mês, identificando tendências ao longo do tempo.
 
-## Objetivo do Projeto
-O objetivo do **SpaceLaunchAnalyzer** é realizar uma análise abrangente dos dados de lançamentos espaciais, facilitando a compreensão das dinâmicas do setor. O projeto busca insights sobre a frequência de lançamentos por organização, a eficácia das tecnologias, a distribuição geográfica das atividades e os gastos associados. Através de visualizações interativas, pretende-se facilitar a interpretação dos dados, oferecendo informações valiosas para profissionais e entusiastas da indústria espacial.
 
-## Como Executar o Projeto
-1. Acesse o [Google Colab](https://colab.research.google.com/).
-2. Carregue o notebook do projeto.
-3. Execute as células para carregar e analisar os dados.
-
-## Conclusão
-O **SpaceLaunchAnalyzer** é uma contribuição significativa para a análise do setor espacial, oferecendo ferramentas e visualizações que tornam os dados acessíveis e compreensíveis. Este projeto não apenas destaca as dinâmicas da indústria, mas também serve como uma base para futuros estudos e investigações no campo.
